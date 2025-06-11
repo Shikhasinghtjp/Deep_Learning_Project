@@ -26,7 +26,7 @@ pip install numpy pandas tensorflow scikit-learn matplotlib
 
 ---
 
-##📈 Output
+📈 Output
 
 Console logs for training and validation metrics
 
@@ -36,7 +36,7 @@ Saved model checkpoints (if enabled)
 
 ---
 
-##🛠️ Customization
+🛠️ Customization
 
 Update model architecture inside Deep_Learning.py
 
