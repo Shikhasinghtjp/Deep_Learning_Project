@@ -27,6 +27,7 @@ pip install numpy pandas tensorflow scikit-learn matplotlib
 ---
 
 ##📈 Output
+
 Console logs for training and validation metrics
 
 Optional plots of loss and accuracy over epochs
@@ -36,6 +37,7 @@ Saved model checkpoints (if enabled)
 ---
 
 ##🛠️ Customization
+
 Update model architecture inside Deep_Learning.py
 
 Modify dataset loading to use your own data
