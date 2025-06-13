@@ -10,7 +10,7 @@
 
 *DURATION*: 4 weeks
 
-*MENTOR*: NEELA SANTOSH![image]
+*MENTOR*: NEELA SANTOSH
 
 
 
